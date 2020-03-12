@@ -9,4 +9,6 @@ export const randomColor = (()=> {
     console.log(_.random(0, 6));
 });
 
+
+
 // module.exports = {niceMessage};
