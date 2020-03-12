@@ -7,4 +7,11 @@ const sayHello = (()=> {
 sayHello();
 
 
-$('body').css('background-color', 'red');
+$('body').css('background-color', 'green');
+
+
+import { niceMessage } from './say-hello';
+
+niceMessage();
+
+// console.log(niceMessage);
