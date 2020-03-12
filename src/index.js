@@ -15,3 +15,7 @@ import { niceMessage } from './say-hello';
 niceMessage();
 
 // console.log(niceMessage);
+
+import { randomColor} from "./say-hello";
+
+randomColor();
